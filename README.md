@@ -6,7 +6,7 @@ This project basically based on the public API test. Here I'm doing load testing
 
 ## Technology Used
 
---Apache Jmeter
+ -Apache Jmeter
 
 -Visual Studio Code
 
