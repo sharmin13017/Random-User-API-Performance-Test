@@ -25,6 +25,11 @@ https://random-data-api.com/api/v2/users
 
 5. And finally open "User-Request.jmx", then click on the "start" button
 
+## This testing is based on the following sceneries
+
+1.Load Testing
+2.Stress Testing   
+
 ## Load Test
 
 ![image](https://github.com/sharmin13017/Random-User-API-Performance-Test/assets/151603424/f2169f22-7306-48a8-bdec-d8167f3230f6)
