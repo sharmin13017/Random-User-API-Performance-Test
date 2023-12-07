@@ -25,5 +25,10 @@ https://random-data-api.com/api/v2/users
 
 5. And finally open "User-Request.jmx", then click on the "start" button
 
-![image](https://github.com/sharmin13017/Random-User-API-Performance-Test/assets/151603424/f3bf8d77-d437-44dd-bf45-44561c384d9a)
+## Load Test
+
+![image](https://github.com/sharmin13017/Random-User-API-Performance-Test/assets/151603424/f2169f22-7306-48a8-bdec-d8167f3230f6)
+
+
+
 
