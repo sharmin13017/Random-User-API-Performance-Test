@@ -16,7 +16,11 @@ https://random-data-api.com/api/v2/users
 ## How to Run
 
 Install & Run JMeter software
+
 Download this "User-Request.jmx" file
+
 Save this .jmx file into apache "bin" folder
+
 Run "ApacheJMeter.jar"
+
 And finally open "User-Request.jmx", then click on the "start" button
