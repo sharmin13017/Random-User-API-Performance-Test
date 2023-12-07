@@ -15,7 +15,7 @@ https://random-data-api.com/api/v2/users
 
 ## How to Run
 
-Install & Run JMeter software
+*Install & Run JMeter software
 
 Download this "User-Request.jmx" file
 
