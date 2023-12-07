@@ -19,8 +19,8 @@ https://random-data-api.com/api/v2/users
 
 2. Download this "User-Request.jmx" file
 
-3.Save this .jmx file into apache "bin" folder
+3. Save this .jmx file into apache "bin" folder
 
-4.Run "ApacheJMeter.jar"
+4. Run "ApacheJMeter.jar"
 
-5.And finally open "User-Request.jmx", then click on the "start" button
+5. And finally open "User-Request.jmx", then click on the "start" button
