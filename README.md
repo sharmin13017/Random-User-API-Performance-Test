@@ -24,3 +24,6 @@ https://random-data-api.com/api/v2/users
 4. Run "ApacheJMeter.jar"
 
 5. And finally open "User-Request.jmx", then click on the "start" button
+
+![image](https://github.com/sharmin13017/Random-User-API-Performance-Test/assets/151603424/f3bf8d77-d437-44dd-bf45-44561c384d9a)
+
