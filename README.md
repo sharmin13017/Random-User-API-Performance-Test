@@ -6,8 +6,9 @@ This project basically based on the public API test. Here I'm doing load testing
 
 ## Technology Used
 
-.Apache Jmeter
-.Visual Studio Code
+-Apache Jmeter
+
+-Visual Studio Code
 
 ## Server API URL:
 https://random-data-api.com/api/v2/users
